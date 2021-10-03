@@ -3,55 +3,55 @@ using UnityEngine.Networking;
 using System.Collections;
 using System.Collections.Generic;
 using System;
-
+using CI.HttpClient;
 public class LightControl : MonoBehaviour
 {
     [Serializable]
     public class LightJson
     {
-        public float bri;
+        public int bri;
         
     }
     LightJson lightControl = new LightJson();
-
-
-
+    
     public Transform objectValue;
     // Start is called before the first frame update
     void Start()
     {
+        lightControl.bri = 255;
+        string json = JsonUtility.ToJson(lightControl);
+        var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
         //StartCoroutine(LightHttpPost());
+        var client = new HttpClient();
+        client.Put(new Uri("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/4/state"), content, HttpCompletionOption.AllResponseContent, r =>
+        {
+            // This callback is raised when the request completes
+            if (r.IsSuccessStatusCode)
+            {
+                // Read the response content as a string if the server returned a success status code
+                string responseData = r.ReadAsString();
+                
+                print(responseData);
+            }
+        });
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (objectValue.hasChanged)
-        {
-            lightControl.bri = objectValue.position.y;
-            string json = JsonUtility.ToJson(lightControl);
-            byte[] myData = System.Text.Encoding.UTF8.GetBytes(json);
-            using (UnityWebRequest www = UnityWebRequest.Put("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/4/state", myData))
-            {
-                //yield return www.SendWebRequest();
 
-                if (www.result != UnityWebRequest.Result.Success)
-                {
-                    Debug.Log(www.error);
-                }
-                else
-                {
-                    Debug.Log("Upload complete!");
-                }
-            }
-        }
-
+        
     }
+
+   
+
+ 
+}
 
     
 
    
-}
+
 
 
 
