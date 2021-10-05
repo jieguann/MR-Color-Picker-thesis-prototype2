@@ -10,6 +10,7 @@ public class LightControl : MonoBehaviour
     public class LightJson
     {
         public int bri;
+        public float[] xy;
         
     }
     LightJson lightControl = new LightJson();
@@ -18,7 +19,41 @@ public class LightControl : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        lightControl.bri = 255;
+        lightControl.xy = new float[2];
+        StartCoroutine(HttpPutLight());
+        //updateLight();
+        //lightControl.bri = (int)objectValue.position.y;
+        //lightControl.bri = (int)Mathf.Lerp(-1f,1f,objectValue.position.y)*255;
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+        //print(lightControl.bri);
+        //updateLight();
+
+    }
+
+    IEnumerator HttpPutLight()
+    {
+        while (true)
+        {
+            
+            yield return new WaitForSeconds(0.1f);
+            lightControl.bri = (int)map(objectValue.position.y, -1f,1f, 0f,255f);
+            lightControl.xy[0] = map(objectValue.localScale.y, 0f, 1f, 0f, 1f);
+            lightControl.xy[1] = map(objectValue.localRotation.eulerAngles.y, 0f, 360f, 0f, 1f);
+            print(objectValue.localRotation.eulerAngles.y);
+            updateLight();
+        }
+        
+    }
+
+    void updateLight()
+    {
+        
         string json = JsonUtility.ToJson(lightControl);
         var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
         //StartCoroutine(LightHttpPost());
@@ -30,22 +65,18 @@ public class LightControl : MonoBehaviour
             {
                 // Read the response content as a string if the server returned a success status code
                 string responseData = r.ReadAsString();
-                
+
                 print(responseData);
             }
         });
     }
 
-    // Update is called once per frame
-    void Update()
+    public static float map(float value, float leftMin, float leftMax, float rightMin, float rightMax)
     {
-
-        
+        return rightMin + (value - leftMin) * (rightMax - rightMin) / (leftMax - leftMin);
     }
 
-   
 
- 
 }
 
     
