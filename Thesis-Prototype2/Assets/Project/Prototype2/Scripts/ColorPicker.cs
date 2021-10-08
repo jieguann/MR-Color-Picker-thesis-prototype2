@@ -37,7 +37,8 @@ public class ColorPicker : MonoBehaviour
         //https://github.com/johnciech/PhilipsHueSDK/blob/master/ApplicationDesignNotes/RGB%20to%20xy%20Color%20conversion.md
         x = xyz.x / (xyz.x + xyz.y + xyz.z);
         y = xyz.y / (xyz.x + xyz.y + xyz.z);
-        control.controlLight(x, y);
+        StartCoroutine(control.HttpPutLight(x, y));
+        //control.controlLight(x, y);
         print(col);
         print(x);
         print(y);

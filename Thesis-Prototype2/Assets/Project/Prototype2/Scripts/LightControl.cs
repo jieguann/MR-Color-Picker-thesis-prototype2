@@ -37,13 +37,15 @@ public class LightControl : MonoBehaviour
 
     }
 
+    /*
     public void controlLight(float x, float y)
     {
         StartCoroutine(HttpPutLight(x,y));
     }
-    IEnumerator HttpPutLight(float x, float y)
+    */
+    public IEnumerator HttpPutLight(float x, float y)
     {
-        yield return new WaitForSeconds(0.01f);
+
         /*
         while (true)
         {
@@ -57,11 +59,13 @@ public class LightControl : MonoBehaviour
             
     }
         */
-        lightControl.xy[0] = x;
-        lightControl.xy[1] = y;
-        lightControl.bri = 100;
-        updateLight();
-
+        
+            //yield return new WaitForSeconds(0.1f);
+            lightControl.xy[0] = x;
+            lightControl.xy[1] = y;
+            lightControl.bri = 100;
+            updateLight();
+            yield return null;
     }
 
     void updateLight()
