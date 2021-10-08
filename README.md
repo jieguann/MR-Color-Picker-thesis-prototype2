@@ -5,7 +5,8 @@
 A Mixed Reality Color Picker
 
 ## Credits
-Atom Rocket Model https://assetstore.unity.com/packages/3d/vehicles/space/atom-rocket-model-140021
+Atom Rocket Model https://assetstore.unity.com/packages/3d/vehicles/space/atom-rocket-model-140021 \
+Vast Outer Space https://assetstore.unity.com/packages/3d/environments/sci-fi/vast-outer-space-38913
 
 ## Reference
 RGB to Cit https://github.com/karl-/pb_ColorUtil \
