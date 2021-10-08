@@ -75,15 +75,22 @@ public class LightControl : MonoBehaviour
         var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
         //StartCoroutine(LightHttpPost());
         var client = new HttpClient();
+        //light 4
         client.Put(new Uri("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/4/state"), content, HttpCompletionOption.AllResponseContent, r =>
-        {
-            // This callback is raised when the request completes
+        {   // This callback is raised when the request completes
             if (r.IsSuccessStatusCode)
-            {
-                // Read the response content as a string if the server returned a success status code
+            {    // Read the response content as a string if the server returned a success status code
                 string responseData = r.ReadAsString();
-
-                print(responseData);
+                //print(responseData);
+            }
+        });
+        //Light 3
+        client.Put(new Uri("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/3/state"), content, HttpCompletionOption.AllResponseContent, r =>
+        {   // This callback is raised when the request completes
+            if (r.IsSuccessStatusCode)
+            {    // Read the response content as a string if the server returned a success status code
+                string responseData = r.ReadAsString();
+                //print(responseData);
             }
         });
     }
