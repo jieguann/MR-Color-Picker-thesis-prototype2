@@ -4,6 +4,12 @@
 ## Pick up color from virtual to affect the physical light
 A Mixed Reality Color Picker
 
+## Tools
+Unity 2020.3.16f
+MRTK
+Philip Hue https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-starter-kit-e26/046677563295
+PHilip Hue Developer https://developers.meethue.com/develop/get-started-2/
+
 ## Credits
 Atom Rocket Model https://assetstore.unity.com/packages/3d/vehicles/space/atom-rocket-model-140021 \
 Vast Outer Space https://assetstore.unity.com/packages/3d/environments/sci-fi/vast-outer-space-38913
