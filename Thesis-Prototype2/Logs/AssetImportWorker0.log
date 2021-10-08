@@ -377,3 +377,2047 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 274.065220 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_A.prefab
+  artifactKey: Guid(ae4427e80dceffe47b5179ce000667cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_A.prefab using Guid(ae4427e80dceffe47b5179ce000667cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2fd8645890d3eba00ed5f82c794f8a9') in 0.214378 seconds 
+  Import took 0.224248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_E.prefab
+  artifactKey: Guid(965a95650c5ae2a48b35aa03ca4a0a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_E.prefab using Guid(965a95650c5ae2a48b35aa03ca4a0a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8050a12de76d767c3a4e30bebfac57b5') in 0.012691 seconds 
+  Import took 0.026886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_G.prefab
+  artifactKey: Guid(c49caf18677eba3478784cd2f08b98b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_G.prefab using Guid(c49caf18677eba3478784cd2f08b98b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6dc8ed24964fcc6e02fcd692629970b') in 0.011770 seconds 
+  Import took 0.015670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_D.prefab
+  artifactKey: Guid(7f7566e20b9ffe54798c1bf42201e1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_D.prefab using Guid(7f7566e20b9ffe54798c1bf42201e1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b05458a4dc4e694747ab9b3a595ff4c') in 0.011836 seconds 
+  Import took 0.018371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_F.prefab
+  artifactKey: Guid(72776d15a565f3f499c3d02414de971e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_F.prefab using Guid(72776d15a565f3f499c3d02414de971e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35148663c670d61cca5f67629753935c') in 0.012108 seconds 
+  Import took 0.016177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_B.prefab
+  artifactKey: Guid(ead4c151b2850004782f62d3ac573cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_B.prefab using Guid(ead4c151b2850004782f62d3ac573cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149b2c2ea0da55c74b455585d0cbdd2b') in 0.011373 seconds 
+  Import took 0.015466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_C.prefab
+  artifactKey: Guid(eeb1c2ea47bc7f04cb234f63e9bbf4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_C.prefab using Guid(eeb1c2ea47bc7f04cb234f63e9bbf4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e2ece450f5893f92d7d2db8200a8e5') in 0.011631 seconds 
+  Import took 0.015856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_H.prefab
+  artifactKey: Guid(ece113bb09a725547ad15c6e1794fbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Asteroids/Asteroid_H.prefab using Guid(ece113bb09a725547ad15c6e1794fbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc963cfae2af0b3cda272e05fbd6d65f') in 0.012387 seconds 
+  Import took 0.016560 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.768 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1768ms)
+		BeginReloadAssembly (100ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (1616ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (296ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (1033ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (734ms)
+				ProcessInitializeOnLoadMethodAttributes (207ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.2 MB.
+System memory in use after: 151.8 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4104.
+Total: 3.625300 ms (FindLiveObjects: 0.307800 ms CreateObjectMapping: 0.177400 ms MarkObjects: 2.905200 ms  DeleteObjects: 0.234000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 118.343825 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_A.png
+  artifactKey: Guid(67f12b7e625898645a875fc7db252ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_A.png using Guid(67f12b7e625898645a875fc7db252ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3adb099e74b6ce7b1cb545332c6e497b') in 0.040780 seconds 
+  Import took 0.063788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_D_NRM.png
+  artifactKey: Guid(001ed8c3df8900e4caafe658839ff082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_D_NRM.png using Guid(001ed8c3df8900e4caafe658839ff082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12eb69de245a2f51acb04b6ffb1c64e3') in 0.011788 seconds 
+  Import took 0.017198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_I.png
+  artifactKey: Guid(6d5ae3f1873105146a43e75edd2be032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_I.png using Guid(6d5ae3f1873105146a43e75edd2be032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e84251f5729c2b92515240b5c9c5343') in 0.008778 seconds 
+  Import took 0.013214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_B.png
+  artifactKey: Guid(1621fc1a218304a44a7a92b8d9e7edf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_B.png using Guid(1621fc1a218304a44a7a92b8d9e7edf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d8c09db835cd6b87e8ee2e574f9bc4c') in 0.009960 seconds 
+  Import took 0.014465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_A.png
+  artifactKey: Guid(b3b44809915b4b84cad636c2c9c44af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_A.png using Guid(b3b44809915b4b84cad636c2c9c44af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bdc54b6c521243b91af5f2d814355ac') in 0.009075 seconds 
+  Import took 0.013401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_B.png
+  artifactKey: Guid(47cf79e8868e8cf4a8380cba7b0dc684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_B.png using Guid(47cf79e8868e8cf4a8380cba7b0dc684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7f11feaec75ab503629c3eda222cc4') in 0.008951 seconds 
+  Import took 0.013219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_BCD.png
+  artifactKey: Guid(d16f912d7ac78834dbf5e514aafd74c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_BCD.png using Guid(d16f912d7ac78834dbf5e514aafd74c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce1defea3e2d297a2d3393a47a276f7') in 0.009456 seconds 
+  Import took 0.013842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_G.png
+  artifactKey: Guid(f935389eac443664ea079fd9536854bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_G.png using Guid(f935389eac443664ea079fd9536854bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '910d35dce7ff8d15f59d350cbd95e79b') in 0.009210 seconds 
+  Import took 0.013597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_D.png
+  artifactKey: Guid(6b1e93bafab15fe498d5e64edc3920a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_D.png using Guid(6b1e93bafab15fe498d5e64edc3920a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289e4ee03c288d20ac7b12bc8da1f875') in 0.009928 seconds 
+  Import took 0.014348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_F.png
+  artifactKey: Guid(810be4a0ec278a44599d0befb5905f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_F.png using Guid(810be4a0ec278a44599d0befb5905f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba70fa4ddef750487059c6eab4882abd') in 0.009472 seconds 
+  Import took 0.014064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_C.png
+  artifactKey: Guid(f2458c1aeb59f0549a39ea52b8bb6ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_C.png using Guid(f2458c1aeb59f0549a39ea52b8bb6ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b0285d37f1e8c202b089365d186023') in 0.009700 seconds 
+  Import took 0.014252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_C.png
+  artifactKey: Guid(1fe5007a1f19b7f43a67d7f7027c75a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_C.png using Guid(1fe5007a1f19b7f43a67d7f7027c75a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1066ed9553b9f33d7c69c7a4a5931d3') in 0.010320 seconds 
+  Import took 0.014924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_G.png
+  artifactKey: Guid(7bff280d954c7c043b6bbab46ca1a28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_G.png using Guid(7bff280d954c7c043b6bbab46ca1a28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a58a1988adb52cfa62ab0ecd0b61f1') in 0.010467 seconds 
+  Import took 0.014959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_E_NRM.png
+  artifactKey: Guid(1c31e5fccc965f644a46180134398c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_E_NRM.png using Guid(1c31e5fccc965f644a46180134398c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1028f6fb547512111457a695f50f77e6') in 0.010125 seconds 
+  Import took 0.015217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_NRM.png
+  artifactKey: Guid(512dabead90b2d94685e33e58c125008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_NRM.png using Guid(512dabead90b2d94685e33e58c125008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd70f6ff5ed2c610d69f8d7819e1ac5f7') in 0.011523 seconds 
+  Import took 0.024060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_D.png
+  artifactKey: Guid(4de4c1c9ca4451d48a4631828548eec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_D.png using Guid(4de4c1c9ca4451d48a4631828548eec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f77341079d4a26ac37e91f1c018b931') in 0.010164 seconds 
+  Import took 0.015011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_E.png
+  artifactKey: Guid(7e4d8ab652cb609449632e3959fa1df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_E.png using Guid(7e4d8ab652cb609449632e3959fa1df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d6525e55d5715ad3328a8de0569efd') in 0.009469 seconds 
+  Import took 0.013935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_E.png
+  artifactKey: Guid(f8630c3c7060e4b4db685faeaf6cc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_E.png using Guid(f8630c3c7060e4b4db685faeaf6cc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b322552d73cfa6e5cd4359ec6dafd5e3') in 0.009766 seconds 
+  Import took 0.014057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_G.png
+  artifactKey: Guid(377f06b1a3354d645b666cd8109a770e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_G.png using Guid(377f06b1a3354d645b666cd8109a770e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7e13ed45a701d54b1e4cd6e1a779bb') in 0.009220 seconds 
+  Import took 0.013374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_BC.png
+  artifactKey: Guid(bb35437e501be0f4ab08109646fbb76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_BC.png using Guid(bb35437e501be0f4ab08109646fbb76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001b5962156bc71c403cf6c922cf9751') in 0.009457 seconds 
+  Import took 0.013765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_DE.png
+  artifactKey: Guid(e2ccc5cae85c73e449c5c5b58d522b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_DE.png using Guid(e2ccc5cae85c73e449c5c5b58d522b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ead5b44490a7e3a01463b3bdf4bcaf8') in 0.009790 seconds 
+  Import took 0.014096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_H.png
+  artifactKey: Guid(9c979f9ec0657e045927833193f4b9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_H.png using Guid(9c979f9ec0657e045927833193f4b9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e19e29ccbab7537015981f6fe5f2e29') in 0.008833 seconds 
+  Import took 0.012980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_A.png
+  artifactKey: Guid(67f12b7e625898645a875fc7db252ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_A.png using Guid(67f12b7e625898645a875fc7db252ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3adb099e74b6ce7b1cb545332c6e497b') in 0.008744 seconds 
+  Import took 0.012882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_J.png
+  artifactKey: Guid(a03a8ff3527d995488a1136f29258b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_J.png using Guid(a03a8ff3527d995488a1136f29258b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc54b5c36bc035571624e5ae6ba96bc5') in 0.008736 seconds 
+  Import took 0.012821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_L.png
+  artifactKey: Guid(1f97e306bb462814e8bbb2a607161fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_L.png using Guid(1f97e306bb462814e8bbb2a607161fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a99a51cd00331d4db14a78d16da97e') in 0.008820 seconds 
+  Import took 0.013047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_DEF.png
+  artifactKey: Guid(0609b2be8bc994742a06af77447b6f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_DEF.png using Guid(0609b2be8bc994742a06af77447b6f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd908c0372b50af0fdd5c94554706656c') in 0.009130 seconds 
+  Import took 0.013383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_ABC.png
+  artifactKey: Guid(0a8df56290b805347a48d915aab24083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_ABC.png using Guid(0a8df56290b805347a48d915aab24083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdbeaca85cdfefc797e80a44ed618089') in 0.009434 seconds 
+  Import took 0.013610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_K.png
+  artifactKey: Guid(5a03f012613841243ac60b7761c4bc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_K.png using Guid(5a03f012613841243ac60b7761c4bc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734ecb8a1bbb08ca5bb608355f2500e2') in 0.008186 seconds 
+  Import took 0.012797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_EF.png
+  artifactKey: Guid(b24ad0bd9f1d6834cb158493642c5c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_EF.png using Guid(b24ad0bd9f1d6834cb158493642c5c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39106e08eaaf6d213818142c7c22fb9') in 0.009537 seconds 
+  Import took 0.020665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_F.png
+  artifactKey: Guid(699ad03760b78da4b9e3ba5c459972f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_F.png using Guid(699ad03760b78da4b9e3ba5c459972f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431649225df4c92ab3a2d8212cd44ae8') in 0.009989 seconds 
+  Import took 0.014368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_C_NRM.png
+  artifactKey: Guid(d0ebcd90ba0a9294da39516e8439bf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_C_NRM.png using Guid(d0ebcd90ba0a9294da39516e8439bf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '736b29e25b3ab73a4b109c081c533947') in 0.013673 seconds 
+  Import took 0.017926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_B.png
+  artifactKey: Guid(e23cfc7a4d1291e45a2286199962a3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_B.png using Guid(e23cfc7a4d1291e45a2286199962a3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7c8a8fe5e4f605cad9a0b3e009be1b') in 0.009154 seconds 
+  Import took 0.014029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_H.png
+  artifactKey: Guid(8c72210786f22a946a47916d738da076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Asteroid_H.png using Guid(8c72210786f22a946a47916d738da076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c21b02dccf9677bd2a321fe27d77828') in 0.009637 seconds 
+  Import took 0.013648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_D.png
+  artifactKey: Guid(ae8ede87ae88d564195826410a2520d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_D.png using Guid(ae8ede87ae88d564195826410a2520d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b848d84688f13cde5779e4bab48c3c2') in 0.010013 seconds 
+  Import took 0.014390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_AB.png
+  artifactKey: Guid(ee8179241eecccc4a803ad81f1aaebf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_AB.png using Guid(ee8179241eecccc4a803ad81f1aaebf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8974679183a3889234f7f949467a1c94') in 0.009592 seconds 
+  Import took 0.014231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_K.png
+  artifactKey: Guid(cba81bd39648a1c4386766c4961c32c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_K.png using Guid(cba81bd39648a1c4386766c4961c32c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b47f77e4613c5fe67dcf008e34fd2e') in 0.008788 seconds 
+  Import took 0.013077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_CDE.png
+  artifactKey: Guid(623a3a912977e424ab8c8f7fb7902879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_CDE.png using Guid(623a3a912977e424ab8c8f7fb7902879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6cf5ca7b8672cfaaa1d62f3372eb7a2') in 0.009404 seconds 
+  Import took 0.014130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_I.png
+  artifactKey: Guid(e20ff7a0823471744b8ca78660a5328e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_I.png using Guid(e20ff7a0823471744b8ca78660a5328e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe01f6f697eb4243b5a95c39fe9c406') in 0.009277 seconds 
+  Import took 0.013436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_C.png
+  artifactKey: Guid(1565625ac6ab8024e846f1772d83e6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_C.png using Guid(1565625ac6ab8024e846f1772d83e6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa2fe04bf0dfb227c63958b77bfe611') in 0.008786 seconds 
+  Import took 0.021925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_C.png
+  artifactKey: Guid(bb1dfa6ae04700746872912a467a95fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_C.png using Guid(bb1dfa6ae04700746872912a467a95fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12608eaa28ba12789a1ee38a84491240') in 0.008667 seconds 
+  Import took 0.012702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_D.png
+  artifactKey: Guid(09fc1a0d2b44735419d8c2f7360066fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_D.png using Guid(09fc1a0d2b44735419d8c2f7360066fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5451df6a4a704c703c712100571c8302') in 0.009027 seconds 
+  Import took 0.013272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_C.png
+  artifactKey: Guid(0b2f8b42a10a45142a081ce84d42c31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_C.png using Guid(0b2f8b42a10a45142a081ce84d42c31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6eda00f29738cc78cd1f1ddc127c678') in 0.009378 seconds 
+  Import took 0.013565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_D.png
+  artifactKey: Guid(e0c9474792e56d74584efad3a75f7e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_D.png using Guid(e0c9474792e56d74584efad3a75f7e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283d05064dc23fa690a11739a7231b1c') in 0.008545 seconds 
+  Import took 0.012577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_E.png
+  artifactKey: Guid(3b10109b13270c540914f1f989ac8344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_E.png using Guid(3b10109b13270c540914f1f989ac8344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbae0f17678e50344de7bea19d1a21f5') in 0.009067 seconds 
+  Import took 0.013989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_H.png
+  artifactKey: Guid(5331ebf0c65ec7b46a9c108d56bb8c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_H.png using Guid(5331ebf0c65ec7b46a9c108d56bb8c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8ac82fa46eb9755cc4611096659043') in 0.008492 seconds 
+  Import took 0.012894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_A_NRM.png
+  artifactKey: Guid(b4f5c4e7928e6f046b7bf62273ead7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_A_NRM.png using Guid(b4f5c4e7928e6f046b7bf62273ead7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db4532e9f5723c5428b22551da9f239') in 0.008665 seconds 
+  Import took 0.012783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_F.png
+  artifactKey: Guid(6fe5db397b85f744b90d5b30fcaa2dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_F.png using Guid(6fe5db397b85f744b90d5b30fcaa2dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac063f2e66c0ddcbb12b93d85fd7b696') in 0.009871 seconds 
+  Import took 0.014243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_J.png
+  artifactKey: Guid(27433079d3a17e240b4d49f859592e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_J.png using Guid(27433079d3a17e240b4d49f859592e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8f57ae74754985940678990ca985f3') in 0.009122 seconds 
+  Import took 0.013387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_A.png
+  artifactKey: Guid(0a59452de63f98240877facb246a1ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_A.png using Guid(0a59452de63f98240877facb246a1ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c6d389c7544207c7bebfdf2e126e28') in 0.008927 seconds 
+  Import took 0.018926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_B.png
+  artifactKey: Guid(0a5d09ecd885fc7489fc86abf0fddeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_B.png using Guid(0a5d09ecd885fc7489fc86abf0fddeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b74b0deb55bed598c296f1d70281e8f') in 0.008999 seconds 
+  Import took 0.013191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_B.png
+  artifactKey: Guid(0605cdb9054230d47b08e964cf98f552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_B.png using Guid(0605cdb9054230d47b08e964cf98f552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1b0e05d7ec661d140cd582777b26c6') in 0.008548 seconds 
+  Import took 0.012993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_A.png
+  artifactKey: Guid(1e89fb20cbe0cf442adf25222e2bfe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Galaxy_A.png using Guid(1e89fb20cbe0cf442adf25222e2bfe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d54201f77a60ab8c0d6269665a8a891') in 0.009606 seconds 
+  Import took 0.014829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_A.png
+  artifactKey: Guid(49d50c53f237ab340b5529ea2bae8059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_A.png using Guid(49d50c53f237ab340b5529ea2bae8059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563a8500106a19b152bc72f204b931d3') in 0.008934 seconds 
+  Import took 0.013608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_E.png
+  artifactKey: Guid(c66dddc112ab5d0478e8373a5536052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_E.png using Guid(c66dddc112ab5d0478e8373a5536052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe4c679edee0b7b64caf09888ec60ee') in 0.008869 seconds 
+  Import took 0.013307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_E.png
+  artifactKey: Guid(c7328396c96ac0f419f454dfbbb63780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_E.png using Guid(c7328396c96ac0f419f454dfbbb63780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edfadad511d6e7e6489fe32f61db07e0') in 0.009172 seconds 
+  Import took 0.014927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_B_NRM.png
+  artifactKey: Guid(4374313c54032764eb87a02fa7fdc745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Planet_B_NRM.png using Guid(4374313c54032764eb87a02fa7fdc745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a383cc38a16667540035b0a53b4fb5e') in 0.009227 seconds 
+  Import took 0.014056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_CD.png
+  artifactKey: Guid(80c0a4d0aa1cff34d9013020b3957098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_CD.png using Guid(80c0a4d0aa1cff34d9013020b3957098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca704508d657f7b3d0a626c451ec3821') in 0.010119 seconds 
+  Import took 0.014907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_F.png
+  artifactKey: Guid(3b1a5df708b57ca4781302a7dcca388c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Gas_Planet_F.png using Guid(3b1a5df708b57ca4781302a7dcca388c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c52d38aed1b1066d3e5d9ff6274a83') in 0.009191 seconds 
+  Import took 0.013906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_CD.png
+  artifactKey: Guid(80c0a4d0aa1cff34d9013020b3957098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Textures/Nebula_CD.png using Guid(80c0a4d0aa1cff34d9013020b3957098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca704508d657f7b3d0a626c451ec3821') in 0.010806 seconds 
+  Import took 0.016204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.628132 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_A.prefab
+  artifactKey: Guid(f2f3120c1bdbe1048b22872d840de803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_A.prefab using Guid(f2f3120c1bdbe1048b22872d840de803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac81d931e79efbdb627c58e2048a1239') in 0.039928 seconds 
+  Import took 0.055555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_K.prefab
+  artifactKey: Guid(84c2617c34824af49a0ce8569549f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_K.prefab using Guid(84c2617c34824af49a0ce8569549f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85164a1dae3d308f37da2917ec889dcc') in 0.021605 seconds 
+  Import took 0.030554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_B.prefab
+  artifactKey: Guid(76c5527a13ac58a4494ef594b2b03b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_B.prefab using Guid(76c5527a13ac58a4494ef594b2b03b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663275e4c29f883991322aa63ef19b5b') in 0.018931 seconds 
+  Import took 0.025554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_E.prefab
+  artifactKey: Guid(9bc7818d5f646e449a9a231e56b9bcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_E.prefab using Guid(9bc7818d5f646e449a9a231e56b9bcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89fc3828e0be1dda8df112c5113d2b43') in 0.014446 seconds 
+  Import took 0.021705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_C.prefab
+  artifactKey: Guid(26e950ddae2da3a4581a7692739c06fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_C.prefab using Guid(26e950ddae2da3a4581a7692739c06fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e20264b73ccbc731d809e03320fc626') in 0.010834 seconds 
+  Import took 0.015653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_I.prefab
+  artifactKey: Guid(9b81a1e9339b8bb4d90cdb180b6122d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_I.prefab using Guid(9b81a1e9339b8bb4d90cdb180b6122d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a2bb628906373f54b6e677057c78b5b') in 0.010698 seconds 
+  Import took 0.015489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_D.prefab
+  artifactKey: Guid(ed9db51865b70e24d8a9214f83df5912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_D.prefab using Guid(ed9db51865b70e24d8a9214f83df5912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a185f2abec64f3527f2857fef0e5e9') in 0.010114 seconds 
+  Import took 0.014711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_F.prefab
+  artifactKey: Guid(5bb6f67ac3a49004fb0e5b9174a1d1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_F.prefab using Guid(5bb6f67ac3a49004fb0e5b9174a1d1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c841c3bcfe7db7ffc3b618ab79a860a0') in 0.009141 seconds 
+  Import took 0.013691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_H.prefab
+  artifactKey: Guid(f5964d934705c9f4aa7ef77d1a1bc85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_H.prefab using Guid(f5964d934705c9f4aa7ef77d1a1bc85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96d1597ad5e4fd0515e65c9850bd552') in 0.009623 seconds 
+  Import took 0.014072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_G.prefab
+  artifactKey: Guid(e47bb2f50258ed841b48fa1eef455833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_G.prefab using Guid(e47bb2f50258ed841b48fa1eef455833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195c8db1701135ede646e78a883d0a24') in 0.009345 seconds 
+  Import took 0.013814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_J.prefab
+  artifactKey: Guid(39c9a4332495ee04b8a6fb43b2a2f304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_J.prefab using Guid(39c9a4332495ee04b8a6fb43b2a2f304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ec2d0ba7c23e8f601ec0296a38a7fb') in 0.009232 seconds 
+  Import took 0.013423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_H.prefab
+  artifactKey: Guid(f5964d934705c9f4aa7ef77d1a1bc85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_H.prefab using Guid(f5964d934705c9f4aa7ef77d1a1bc85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96d1597ad5e4fd0515e65c9850bd552') in 0.006611 seconds 
+  Import took 0.011027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_J.prefab
+  artifactKey: Guid(39c9a4332495ee04b8a6fb43b2a2f304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_J.prefab using Guid(39c9a4332495ee04b8a6fb43b2a2f304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ec2d0ba7c23e8f601ec0296a38a7fb') in 0.006671 seconds 
+  Import took 0.011088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_L.prefab
+  artifactKey: Guid(9740090b9019fec4885433a4c6d422d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_L.prefab using Guid(9740090b9019fec4885433a4c6d422d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a2993cbbaf2ff36c027f5257d2b798') in 0.010212 seconds 
+  Import took 0.014759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.182105 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Large.prefab
+  artifactKey: Guid(b696a85a1bdab3d4096cfcbcc7e4fe38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Large.prefab using Guid(b696a85a1bdab3d4096cfcbcc7e4fe38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadd220b0a5edf5d0b22a1bbd6f1e04b') in 0.028293 seconds 
+  Import took 0.032630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_A.prefab
+  artifactKey: Guid(8ae16a70f008e674a8c7624f25c1b14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_A.prefab using Guid(8ae16a70f008e674a8c7624f25c1b14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0b53ef3a3e0fd8e3be60dda3d0d5d3d') in 0.010948 seconds 
+  Import took 0.033135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_B.prefab
+  artifactKey: Guid(5cc99f8313e92c2468387dfd5a6f241e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_B.prefab using Guid(5cc99f8313e92c2468387dfd5a6f241e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4945d3a9765a0b67b0b62a79f4c93ac') in 0.010693 seconds 
+  Import took 0.015036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Medium.prefab
+  artifactKey: Guid(c493d3d03cbce404cb4426d18901b4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Medium.prefab using Guid(c493d3d03cbce404cb4426d18901b4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bffdc77dae6cccf93929d318bd46d89') in 0.012344 seconds 
+  Import took 0.017208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Small.prefab
+  artifactKey: Guid(a0bba650a2f3bc74296aad288c08d469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Small.prefab using Guid(a0bba650a2f3bc74296aad288c08d469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3032dd87fd33f8ea015f5b969f7395') in 0.010950 seconds 
+  Import took 0.015781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_C.prefab
+  artifactKey: Guid(44e2007d7472da44396bc2a9e0fb3f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_C.prefab using Guid(44e2007d7472da44396bc2a9e0fb3f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f866fa9bec9b5cd82a0704d567a475fc') in 0.011114 seconds 
+  Import took 0.015738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_E.prefab
+  artifactKey: Guid(353ea8c94d5d326498d52ebd3d487967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_E.prefab using Guid(353ea8c94d5d326498d52ebd3d487967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd210af919c034cbfe2e906cbcd261674') in 0.011798 seconds 
+  Import took 0.017512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Medium.prefab
+  artifactKey: Guid(a6acb94124ef3b348ab02b76e97f1189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Medium.prefab using Guid(a6acb94124ef3b348ab02b76e97f1189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55a57da408fca241f50633fcbadd551') in 0.012245 seconds 
+  Import took 0.022156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_F.prefab
+  artifactKey: Guid(220bfc21aa7483d4b981032f1ac44fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_F.prefab using Guid(220bfc21aa7483d4b981032f1ac44fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a383ee6d978b8930c713035db12e9d') in 0.012532 seconds 
+  Import took 0.017611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Large.prefab
+  artifactKey: Guid(6eb52968ab2779d4db7990fe0f754609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Large.prefab using Guid(6eb52968ab2779d4db7990fe0f754609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df71717f56c95bdb7216e8e4bf00eb08') in 0.011410 seconds 
+  Import took 0.016196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Small.prefab
+  artifactKey: Guid(35415bd24cbf1304fb8f04ba7d00afb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Small.prefab using Guid(35415bd24cbf1304fb8f04ba7d00afb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc3a9639fb7daf6cb1bd22f53364613') in 0.011001 seconds 
+  Import took 0.022538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_D.prefab
+  artifactKey: Guid(ce505e15eef1d1e46bc38cc7d5c8a84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_D.prefab using Guid(ce505e15eef1d1e46bc38cc7d5c8a84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73aacb8a7c7ad5380da9638e5b042df') in 0.011287 seconds 
+  Import took 0.022190 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006797 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.721 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1721ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1578ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (276ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (1026ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (726ms)
+				ProcessInitializeOnLoadMethodAttributes (213ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.9 MB.
+System memory in use after: 152.4 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4116.
+Total: 3.536900 ms (FindLiveObjects: 0.294300 ms CreateObjectMapping: 0.134400 ms MarkObjects: 2.872000 ms  DeleteObjects: 0.235200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.742 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1743ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (1600ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (283ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (1028ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (83ms)
+				ProcessInitializeOnLoadAttributes (734ms)
+				ProcessInitializeOnLoadMethodAttributes (203ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.9 MB.
+System memory in use after: 152.5 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4121.
+Total: 3.924200 ms (FindLiveObjects: 0.312400 ms CreateObjectMapping: 0.171100 ms MarkObjects: 3.193100 ms  DeleteObjects: 0.246100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.752 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1753ms)
+		BeginReloadAssembly (96ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1604ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (306ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (1015ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (720ms)
+				ProcessInitializeOnLoadMethodAttributes (201ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.0 MB.
+System memory in use after: 152.5 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4126.
+Total: 3.458500 ms (FindLiveObjects: 0.323300 ms CreateObjectMapping: 0.202600 ms MarkObjects: 2.701500 ms  DeleteObjects: 0.229900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006769 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.718 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1719ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (1571ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (277ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (1014ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (715ms)
+				ProcessInitializeOnLoadMethodAttributes (213ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.0 MB.
+System memory in use after: 152.6 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4131.
+Total: 4.054300 ms (FindLiveObjects: 0.348400 ms CreateObjectMapping: 0.161700 ms MarkObjects: 3.272700 ms  DeleteObjects: 0.269700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 375.857860 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Dense_A.prefab
+  artifactKey: Guid(91a2ff99c55e0ff40873274bac746b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Dense_A.prefab using Guid(91a2ff99c55e0ff40873274bac746b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9384d0ee116d87a6d7bafb392176b5f3') in 0.111769 seconds 
+  Import took 0.133318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Scattered_A.prefab
+  artifactKey: Guid(b5ced9f6acfedcf42ba0cd4672b305ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Scattered_A.prefab using Guid(b5ced9f6acfedcf42ba0cd4672b305ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a503e19d19eabf26b0c3886bb863f891') in 0.012078 seconds 
+  Import took 0.017676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Scattered_B.prefab
+  artifactKey: Guid(3898d41629554a344b1503479aa41d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Scattered_B.prefab using Guid(3898d41629554a344b1503479aa41d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2f34ca3b6d45043552adaea4004406') in 0.012473 seconds 
+  Import took 0.017156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Dense_B.prefab
+  artifactKey: Guid(0e66f862ac3e68c429da9f9aac1bb079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Dense_B.prefab using Guid(0e66f862ac3e68c429da9f9aac1bb079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dea8d08a0b138dc82a6482054ce9026') in 0.012318 seconds 
+  Import took 0.016901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_C.prefab
+  artifactKey: Guid(d31d9ab42a5c65445aec0bd43ef82eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_C.prefab using Guid(d31d9ab42a5c65445aec0bd43ef82eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432c3266ba5362dfd328d69a42b3a2e7') in 0.030392 seconds 
+  Import took 0.034940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_B.prefab
+  artifactKey: Guid(fa732d156fa9e69499e9a6cc64c88818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_B.prefab using Guid(fa732d156fa9e69499e9a6cc64c88818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6008aa050fdab71a8310a17a5a055a6') in 0.013115 seconds 
+  Import took 0.025688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Distant_Stars_Scattered.prefab
+  artifactKey: Guid(b9b712fae167cc147a72d5ac48150e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Distant_Stars_Scattered.prefab using Guid(b9b712fae167cc147a72d5ac48150e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e37002f81024a823459ae4160552cb0') in 0.010450 seconds 
+  Import took 0.014721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Slow.prefab
+  artifactKey: Guid(39332a43c68770e47ba274b4aadca0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Slow.prefab using Guid(39332a43c68770e47ba274b4aadca0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5daca98ab55142f406077821b8a4c831') in 0.010001 seconds 
+  Import took 0.014326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_A.prefab
+  artifactKey: Guid(df5f76c77be83cc43886fa83cdbadf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_A.prefab using Guid(df5f76c77be83cc43886fa83cdbadf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00db5f57ed91576012139d7471797a40') in 0.011995 seconds 
+  Import took 0.016417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Fast.prefab
+  artifactKey: Guid(fefeb803921ae144bbf6f0dd7ceb2ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Fast.prefab using Guid(fefeb803921ae144bbf6f0dd7ceb2ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00aeac251fdb6b2b621af2e851852a4') in 0.009608 seconds 
+  Import took 0.023454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Distant_Stars_Dense.prefab
+  artifactKey: Guid(aed921ccd7a51cd47bcf557c266c33fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Distant_Stars_Dense.prefab using Guid(aed921ccd7a51cd47bcf557c266c33fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040788df9926f69d1f27daf2339483e4') in 0.009342 seconds 
+  Import took 0.013960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Medium.prefab
+  artifactKey: Guid(181bdf4a0c05f1b45bc6151f67e9b937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Medium.prefab using Guid(181bdf4a0c05f1b45bc6151f67e9b937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e295c10ecb74564058b6146228c5f5') in 0.009714 seconds 
+  Import took 0.013926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Nebula_Cloud.prefab
+  artifactKey: Guid(cfe851c5dcb63064585a4c5b247de0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Particle Effects/Nebula_Cloud.prefab using Guid(cfe851c5dcb63064585a4c5b247de0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422acb8402c5378e5bd3a1d5dbc8636c') in 0.017453 seconds 
+  Import took 0.021846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.692348 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Materials/Star_White.mat
+  artifactKey: Guid(b9ff41e40ef08194494509ffbe8a4d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Materials/Star_White.mat using Guid(b9ff41e40ef08194494509ffbe8a4d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36b6fcbd1d5c39fb5ca93cfcf573a19') in 0.020431 seconds 
+  Import took 0.043987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.488237 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Meshes/Asteroids.fbx
+  artifactKey: Guid(38c445290885e384197c7c05e3d49f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Meshes/Asteroids.fbx using Guid(38c445290885e384197c7c05e3d49f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95839647ec90c83e6df39061c61d8896') in 0.063195 seconds 
+  Import took 0.068859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.313424 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Materials/Nebula_A.mat
+  artifactKey: Guid(b2363ca872fe93d4fb368bd198a51b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Materials/Nebula_A.mat using Guid(b2363ca872fe93d4fb368bd198a51b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3830df805036a1af1356b5d0bd4084') in 0.012174 seconds 
+  Import took 0.016624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002482 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Materials/Nebula_A.mat
+  artifactKey: Guid(b2363ca872fe93d4fb368bd198a51b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Materials/Nebula_A.mat using Guid(b2363ca872fe93d4fb368bd198a51b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3830df805036a1af1356b5d0bd4084') in 0.010222 seconds 
+  Import took 0.014705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.377494 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A1.prefab
+  artifactKey: Guid(5052d7eba8f56bd429121483b0e48249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A1.prefab using Guid(5052d7eba8f56bd429121483b0e48249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9307f38afbe51fa58df4191711c9873') in 0.093902 seconds 
+  Import took 0.098834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D1.prefab
+  artifactKey: Guid(d0ba74bc4033d3748a26e8aed52fb490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D1.prefab using Guid(d0ba74bc4033d3748a26e8aed52fb490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca6867f257a119e00f77fa4dbfe096b') in 0.081991 seconds 
+  Import took 0.123133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_B1.prefab
+  artifactKey: Guid(5fa7defc5c2308d48b1941347fad1e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_B1.prefab using Guid(5fa7defc5c2308d48b1941347fad1e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39405191b22cf2916344280e55273a69') in 0.011319 seconds 
+  Import took 0.015378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_C2.prefab
+  artifactKey: Guid(d39738b9330333a4c827ec704ee6c99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_C2.prefab using Guid(d39738b9330333a4c827ec704ee6c99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b0ddbd45a1775ffd89870ba1caf867') in 0.010883 seconds 
+  Import took 0.015370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_B2.prefab
+  artifactKey: Guid(57a95317300c4f3429baab9f22400d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_B2.prefab using Guid(57a95317300c4f3429baab9f22400d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5f37cb0b1421f02c8f337153ef8c69') in 0.011568 seconds 
+  Import took 0.016713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_C1.prefab
+  artifactKey: Guid(564b158b8ca9183439e9a07768e84d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_C1.prefab using Guid(564b158b8ca9183439e9a07768e84d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0b18b14cb0c416046538072636d36f2') in 0.010702 seconds 
+  Import took 0.014979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_E2.prefab
+  artifactKey: Guid(843ebbe0e5f80534dbeead694cb7b10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_E2.prefab using Guid(843ebbe0e5f80534dbeead694cb7b10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38315dc5545949d8ed5d9e190b2f416a') in 0.010817 seconds 
+  Import took 0.015471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A2.prefab
+  artifactKey: Guid(3d295e0f3ce3e6b4891054b9da5f6ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A2.prefab using Guid(3d295e0f3ce3e6b4891054b9da5f6ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665ee5f15972d8cbaad2ea09fe28a469') in 0.011277 seconds 
+  Import took 0.015884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D2.prefab
+  artifactKey: Guid(5e146687c6a67f2418267f6d12ad2e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D2.prefab using Guid(5e146687c6a67f2418267f6d12ad2e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a569cab53d8170911b10910e2fa06f3f') in 0.010850 seconds 
+  Import took 0.015360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A2.prefab
+  artifactKey: Guid(3d295e0f3ce3e6b4891054b9da5f6ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A2.prefab using Guid(3d295e0f3ce3e6b4891054b9da5f6ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665ee5f15972d8cbaad2ea09fe28a469') in 0.008433 seconds 
+  Import took 0.012986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D2.prefab
+  artifactKey: Guid(5e146687c6a67f2418267f6d12ad2e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D2.prefab using Guid(5e146687c6a67f2418267f6d12ad2e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a569cab53d8170911b10910e2fa06f3f') in 0.008041 seconds 
+  Import took 0.012708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_E1.prefab
+  artifactKey: Guid(abf6266a3b66dcb41be6e9bc6fd42e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_E1.prefab using Guid(abf6266a3b66dcb41be6e9bc6fd42e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc34444aa10a920030c45cf042a533c') in 0.011541 seconds 
+  Import took 0.022391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.238849 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_A.prefab
+  artifactKey: Guid(718940f807eb53f4aa0c16d70080432d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_A.prefab using Guid(718940f807eb53f4aa0c16d70080432d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c73cb47f0808ee15b7e60910ac466c') in 0.076427 seconds 
+  Import took 0.081038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_I.prefab
+  artifactKey: Guid(47f548d426fb1914bae887785a512d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_I.prefab using Guid(47f548d426fb1914bae887785a512d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507504be85d42782683843f774e5a03b') in 0.011269 seconds 
+  Import took 0.015793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_J.prefab
+  artifactKey: Guid(915aaf898641f4c42b5b0bf6777bf232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_J.prefab using Guid(915aaf898641f4c42b5b0bf6777bf232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d4756efc8e5d914e86bb33171ed4a1') in 0.011038 seconds 
+  Import took 0.015626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_C.prefab
+  artifactKey: Guid(3b6b2721de77cde4885fa48cd43c9f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_C.prefab using Guid(3b6b2721de77cde4885fa48cd43c9f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c9de9c0ba5643bbd4f2b9be5fc4f3b') in 0.011129 seconds 
+  Import took 0.079788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_F.prefab
+  artifactKey: Guid(7e606bbd20845a246b693fca327ac9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_F.prefab using Guid(7e606bbd20845a246b693fca327ac9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e71126b5a58351741a3c5ec6850db5b') in 0.011250 seconds 
+  Import took 0.022025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_G.prefab
+  artifactKey: Guid(772a79796cfbe7149a55658d42b4726d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_G.prefab using Guid(772a79796cfbe7149a55658d42b4726d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133adbb79509ebaec3f97d9922c35a7b') in 0.011510 seconds 
+  Import took 0.016181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_E.prefab
+  artifactKey: Guid(c9df427deb000b548ba87af31d666589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_E.prefab using Guid(c9df427deb000b548ba87af31d666589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5456f53e23f298415ebf4462219cce9') in 0.011530 seconds 
+  Import took 0.017442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_H.prefab
+  artifactKey: Guid(608f6bd5671f84c4eb4927a14bffe9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_H.prefab using Guid(608f6bd5671f84c4eb4927a14bffe9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926ca360110d4ba22b8f5973d6cbddf4') in 0.012109 seconds 
+  Import took 0.017143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_D.prefab
+  artifactKey: Guid(4645135d15e70fa45824a3a594cb2b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_D.prefab using Guid(4645135d15e70fa45824a3a594cb2b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663b47072e6ae31978892536f3b73235') in 0.012310 seconds 
+  Import took 0.016972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_K.prefab
+  artifactKey: Guid(836770c02ea056347a2033b490fe4f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_K.prefab using Guid(836770c02ea056347a2033b490fe4f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf48baf79813d12a7033d5eac73ff90d') in 0.012067 seconds 
+  Import took 0.018555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Sun.prefab
+  artifactKey: Guid(01538f1c3c3e04848889987a7bca8e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Sun.prefab using Guid(01538f1c3c3e04848889987a7bca8e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b73fd0e582e7b9b41f2d60d60a80f8') in 0.028247 seconds 
+  Import took 0.033435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_B.prefab
+  artifactKey: Guid(c38c830f1a01cc2419486a2e550473ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_B.prefab using Guid(c38c830f1a01cc2419486a2e550473ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00bf5a51ae6c528e7c2f1e3ff3d0d3e5') in 0.011031 seconds 
+  Import took 0.015378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_L.prefab
+  artifactKey: Guid(765d85c64e1e9854a94ccb1eaa1f56db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Regular_Planets/Planet_L.prefab using Guid(765d85c64e1e9854a94ccb1eaa1f56db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70820cc520760864bdd48aff3048c705') in 0.011764 seconds 
+  Import took 0.018665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.065807 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox.prefab
+  artifactKey: Guid(265b123a61169ae42bf9883e3f6da947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox.prefab using Guid(265b123a61169ae42bf9883e3f6da947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66b9e9ee2128d45d8673d3e36f223b2') in 0.009539 seconds 
+  Import took 0.014209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_C.prefab
+  artifactKey: Guid(8dca8ee790b827b40923d0d5e3f99194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_C.prefab using Guid(8dca8ee790b827b40923d0d5e3f99194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0902114ca5af53415bdd90fbde0a5b66') in 0.121157 seconds 
+  Import took 0.125618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_G.prefab
+  artifactKey: Guid(582aedbaa97f164439c945b6f173812c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_G.prefab using Guid(582aedbaa97f164439c945b6f173812c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f381244f9baff6b827889dfd1123862') in 0.010683 seconds 
+  Import took 0.014828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_A.prefab
+  artifactKey: Guid(410b5de8a6fad3b4491308f2a1c87efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_A.prefab using Guid(410b5de8a6fad3b4491308f2a1c87efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0414491ccf8865c4712fb733b4f1b751') in 0.010927 seconds 
+  Import took 0.015266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_F.prefab
+  artifactKey: Guid(4cbbca421408b284f82056699e78d797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_F.prefab using Guid(4cbbca421408b284f82056699e78d797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42f06dd10ce451441b583d5e6fcbd50') in 0.012089 seconds 
+  Import took 0.016445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_E.prefab
+  artifactKey: Guid(b10bc670d61c94e43b477541cf5f19c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_E.prefab using Guid(b10bc670d61c94e43b477541cf5f19c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63532b0f6f21f6ef03fd841a47739d0') in 0.010027 seconds 
+  Import took 0.014289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_D.prefab
+  artifactKey: Guid(3c56b843246341843a3e1dd95242c6c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_D.prefab using Guid(3c56b843246341843a3e1dd95242c6c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f593aa0eb0c334d0c95a6abf36c584d7') in 0.009887 seconds 
+  Import took 0.084682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_B.prefab
+  artifactKey: Guid(12ebb29e549af124687b76c606d7ced4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Prefabs/Skyboxes/Skybox_B.prefab using Guid(12ebb29e549af124687b76c606d7ced4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1833bf8011465d19a47543b2d77087f') in 0.013600 seconds 
+  Import took 0.021621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.657234 seconds.
+  path: Assets/Project/ThirdParty/Vast Outer Space/Materials/Sun_Flames.mat
+  artifactKey: Guid(1f6c57bda745ad54eadfe28915d8dfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/ThirdParty/Vast Outer Space/Materials/Sun_Flames.mat using Guid(1f6c57bda745ad54eadfe28915d8dfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1089effb774ca440dcedd8a8c041f7d') in 0.051680 seconds 
+  Import took 0.080583 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009901 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.744 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1744ms)
+		BeginReloadAssembly (96ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1600ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (285ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (1023ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (724ms)
+				ProcessInitializeOnLoadMethodAttributes (208ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.19 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.4 MB.
+System memory in use after: 152.9 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4170.
+Total: 3.608300 ms (FindLiveObjects: 0.323000 ms CreateObjectMapping: 0.174800 ms MarkObjects: 2.872000 ms  DeleteObjects: 0.237700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007013 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.705 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1706ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (1566ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (294ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (995ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (709ms)
+				ProcessInitializeOnLoadMethodAttributes (201ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.5 MB.
+System memory in use after: 153.0 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4175.
+Total: 4.311600 ms (FindLiveObjects: 0.374700 ms CreateObjectMapping: 0.237400 ms MarkObjects: 3.418800 ms  DeleteObjects: 0.279500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007047 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.708 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1709ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1567ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (276ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (1003ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (714ms)
+				ProcessInitializeOnLoadMethodAttributes (203ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.5 MB.
+System memory in use after: 153.0 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4180.
+Total: 3.630500 ms (FindLiveObjects: 0.314000 ms CreateObjectMapping: 0.173700 ms MarkObjects: 2.880200 ms  DeleteObjects: 0.261800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.686 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1686ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (1544ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (274ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (996ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (702ms)
+				ProcessInitializeOnLoadMethodAttributes (206ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.5 MB.
+System memory in use after: 153.1 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4185.
+Total: 3.297000 ms (FindLiveObjects: 0.294700 ms CreateObjectMapping: 0.180900 ms MarkObjects: 2.603000 ms  DeleteObjects: 0.217600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.701 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1702ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (1558ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (279ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (1000ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (713ms)
+				ProcessInitializeOnLoadMethodAttributes (202ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.30 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.6 MB.
+System memory in use after: 153.1 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4190.
+Total: 4.128400 ms (FindLiveObjects: 0.365300 ms CreateObjectMapping: 0.202500 ms MarkObjects: 3.310100 ms  DeleteObjects: 0.249400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 256.665484 seconds.
+  path: Assets/Project/Prototype2/Scripts/LightControl.cs
+  artifactKey: Guid(00235cf5c8361a64f8fe268816268168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Prototype2/Scripts/LightControl.cs using Guid(00235cf5c8361a64f8fe268816268168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e71ec95b576ae0c7eaa617642cee493') in 0.010614 seconds 
+  Import took 0.018670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001361 seconds.
+  path: Assets/Project/Prototype2/Scripts/LightControl.cs
+  artifactKey: Guid(00235cf5c8361a64f8fe268816268168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Prototype2/Scripts/LightControl.cs using Guid(00235cf5c8361a64f8fe268816268168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e71ec95b576ae0c7eaa617642cee493') in 0.001283 seconds 
+  Import took 0.005916 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009432 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.588 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1588ms)
+		BeginReloadAssembly (91ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1452ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (267ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (922ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (654ms)
+				ProcessInitializeOnLoadMethodAttributes (186ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.6 MB.
+System memory in use after: 153.2 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4195.
+Total: 3.248600 ms (FindLiveObjects: 0.262700 ms CreateObjectMapping: 0.128300 ms MarkObjects: 2.637000 ms  DeleteObjects: 0.219600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 318.677319 seconds.
+  path: Assets/Project/Prototype2/Scripts/Rotator.cs
+  artifactKey: Guid(255b14b103455474984ed9c1d917c3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Prototype2/Scripts/Rotator.cs using Guid(255b14b103455474984ed9c1d917c3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49785dd2550d3784702bc19cb6fb46a6') in 0.007684 seconds 
+  Import took 0.012536 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007954 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: D:/Thesis/Thesis-Prototype2/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@d873e113ac8d-1633212141767/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.605 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1606ms)
+		BeginReloadAssembly (88ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (1473ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (259ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (942ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (667ms)
+				ProcessInitializeOnLoadMethodAttributes (196ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 3615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.7 MB.
+System memory in use after: 153.2 MB.
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 4201.
+Total: 3.696400 ms (FindLiveObjects: 0.291000 ms CreateObjectMapping: 0.140500 ms MarkObjects: 3.019600 ms  DeleteObjects: 0.244500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 70.760152 seconds.
+  path: Assets/Project/Prototype2/Scripts/Rotator.cs
+  artifactKey: Guid(255b14b103455474984ed9c1d917c3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Prototype2/Scripts/Rotator.cs using Guid(255b14b103455474984ed9c1d917c3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b19a9db5f80e7c596b8cd408c76281a') in 0.004615 seconds 
+  Import took 0.009237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.859314 seconds.
+  path: Assets/Project/Prototype2/Scripts/Rotator.cs
+  artifactKey: Guid(255b14b103455474984ed9c1d917c3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Prototype2/Scripts/Rotator.cs using Guid(255b14b103455474984ed9c1d917c3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51290ccfbbf29bb5c1f1c25291512ef5') in 0.001333 seconds 
+  Import took 0.005765 seconds .
+
