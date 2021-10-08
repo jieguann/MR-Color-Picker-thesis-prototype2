@@ -14,7 +14,7 @@ public class LightControl : MonoBehaviour
         
     }
     LightJson lightControl = new LightJson();
-    //public ColorPicker picker;
+    public ColorPicker picker;
     public Transform objectValue;
     // Start is called before the first frame update
     void Start()
@@ -59,12 +59,14 @@ public class LightControl : MonoBehaviour
             
     }
         */
-        
-            //yield return new WaitForSeconds(0.1f);
+
+            //yield return new WaitUntil(() => b == true);
             lightControl.xy[0] = x;
             lightControl.xy[1] = y;
             lightControl.bri = 100;
             updateLight();
+            //picker.b = false;
+        
             yield return null;
     }
 
