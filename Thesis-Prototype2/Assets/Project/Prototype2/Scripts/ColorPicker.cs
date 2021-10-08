@@ -39,9 +39,9 @@ public class ColorPicker : MonoBehaviour
         y = xyz.y / (xyz.x + xyz.y + xyz.z);
         StartCoroutine(control.HttpPutLight(x, y));
         //control.controlLight(x, y);
-        print(col);
-        print(x);
-        print(y);
+        //print(col);
+        //print(x);
+        //print(y);
 
         
     }
