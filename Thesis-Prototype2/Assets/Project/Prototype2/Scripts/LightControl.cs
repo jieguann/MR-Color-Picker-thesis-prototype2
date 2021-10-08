@@ -14,13 +14,13 @@ public class LightControl : MonoBehaviour
         
     }
     LightJson lightControl = new LightJson();
-    
+    //public ColorPicker picker;
     public Transform objectValue;
     // Start is called before the first frame update
     void Start()
     {
         lightControl.xy = new float[2];
-        StartCoroutine(HttpPutLight());
+        //StartCoroutine(HttpPutLight());
         //updateLight();
         //lightControl.bri = (int)objectValue.position.y;
         //lightControl.bri = (int)Mathf.Lerp(-1f,1f,objectValue.position.y)*255;
@@ -30,14 +30,21 @@ public class LightControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
         //print(lightControl.bri);
         //updateLight();
+        
 
     }
 
-    IEnumerator HttpPutLight()
+    public void controlLight(float x, float y)
     {
+        StartCoroutine(HttpPutLight(x,y));
+    }
+    IEnumerator HttpPutLight(float x, float y)
+    {
+        yield return new WaitForSeconds(0.01f);
+        /*
         while (true)
         {
             
@@ -47,8 +54,14 @@ public class LightControl : MonoBehaviour
             lightControl.xy[1] = map(objectValue.localRotation.eulerAngles.y, 0f, 360f, 0f, 1f);
             //print(objectValue.localRotation.eulerAngles.y);
             updateLight();
-        }
-        
+            
+    }
+        */
+        lightControl.xy[0] = x;
+        lightControl.xy[1] = y;
+        lightControl.bri = 100;
+        updateLight();
+
     }
 
     void updateLight()
@@ -66,7 +79,7 @@ public class LightControl : MonoBehaviour
                 // Read the response content as a string if the server returned a success status code
                 string responseData = r.ReadAsString();
 
-                //print(responseData);
+                print(responseData);
             }
         });
     }

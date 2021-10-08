@@ -7,6 +7,10 @@ public class ColorPicker : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject picker;
+    public float x;
+    public float y;
+
+    public LightControl control;
     Color col = new Color(0f, .7f, 1f, 1f);
     void Start()
     {
@@ -31,8 +35,9 @@ public class ColorPicker : MonoBehaviour
 
         //float x = X / (X + Y + Z); float y = Y / (X + Y + Z);
         //https://github.com/johnciech/PhilipsHueSDK/blob/master/ApplicationDesignNotes/RGB%20to%20xy%20Color%20conversion.md
-        float x = xyz.x / (xyz.x + xyz.y + xyz.z);
-        float y = xyz.y / (xyz.x + xyz.y + xyz.z);
+        x = xyz.x / (xyz.x + xyz.y + xyz.z);
+        y = xyz.y / (xyz.x + xyz.y + xyz.z);
+        control.controlLight(x, y);
         print(col);
         print(x);
         print(y);
