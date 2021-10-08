@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using ProBuilder2.Common;
 
 public class ColorPicker : MonoBehaviour
 {
     // Start is called before the first frame update
+    public GameObject picker;
     void Start()
     {
         
@@ -18,7 +20,7 @@ public class ColorPicker : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        this.GetComponent<Renderer>().material.color = other.GetComponent<Renderer>().material.color;
-        print("enter");
+        picker.GetComponent<Renderer>().material.color = other.GetComponent<Renderer>().material.color;
+        print(other.GetComponent<Renderer>().material.color);
     }
 }

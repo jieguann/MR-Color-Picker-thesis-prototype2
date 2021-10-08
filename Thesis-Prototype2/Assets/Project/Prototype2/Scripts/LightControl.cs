@@ -45,7 +45,7 @@ public class LightControl : MonoBehaviour
             lightControl.bri = (int)map(objectValue.position.y, -1f,1f, 0f,255f);
             lightControl.xy[0] = map(objectValue.localScale.y, 0f, 1f, 0f, 1f);
             lightControl.xy[1] = map(objectValue.localRotation.eulerAngles.y, 0f, 360f, 0f, 1f);
-            print(objectValue.localRotation.eulerAngles.y);
+            //print(objectValue.localRotation.eulerAngles.y);
             updateLight();
         }
         
@@ -66,7 +66,7 @@ public class LightControl : MonoBehaviour
                 // Read the response content as a string if the server returned a success status code
                 string responseData = r.ReadAsString();
 
-                print(responseData);
+                //print(responseData);
             }
         });
     }
