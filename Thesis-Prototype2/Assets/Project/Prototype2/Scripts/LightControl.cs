@@ -72,10 +72,15 @@ public class LightControl : MonoBehaviour
 
     void updateLight()
     {
-        
+        httpPostLight("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/4/state");
+        httpPostLight("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/3/state");
+        httpPostLight("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/2/state");
+        httpPostLight("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/1/state");
+        /*
         string json = JsonUtility.ToJson(lightControl);
         var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
         //StartCoroutine(LightHttpPost());
+        
         var client = new HttpClient();
         //light 4
         client.Put(new Uri("http://192.168.2.49/api/zx9NNIegikmyEgZZOQmR-FTTzTomumRr4nzjyoWc/lights/4/state"), content, HttpCompletionOption.AllResponseContent, r =>
@@ -95,13 +100,29 @@ public class LightControl : MonoBehaviour
                 //print(responseData);
             }
         });
+        */
     }
 
+    public void httpPostLight(string url)
+    {
+        var client = new HttpClient();
+        string json = JsonUtility.ToJson(lightControl);
+        var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
+        client.Put(new Uri(url), content, HttpCompletionOption.AllResponseContent, r =>
+        {   // This callback is raised when the request completes
+            if (r.IsSuccessStatusCode)
+            {    // Read the response content as a string if the server returned a success status code
+                string responseData = r.ReadAsString();
+                //print(responseData);
+            }
+        });
+    }
+    /*
     public static float map(float value, float leftMin, float leftMax, float rightMin, float rightMax)
     {
         return rightMin + (value - leftMin) * (rightMax - rightMin) / (leftMax - leftMin);
     }
-
+    */
 
 }
 
