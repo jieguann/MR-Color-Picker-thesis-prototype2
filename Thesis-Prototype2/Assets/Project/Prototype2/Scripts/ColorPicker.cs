@@ -40,7 +40,7 @@ public class ColorPicker : MonoBehaviour
         StartCoroutine(control.HttpPutLight(x, y));
         //control.controlLight(x, y);
         //print(col);
-        //print(x);
+        print(x + " " + y);
         //print(y);
 
         
