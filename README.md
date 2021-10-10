@@ -19,4 +19,5 @@ Vast Outer Space https://assetstore.unity.com/packages/3d/environments/sci-fi/va
 ## Reference
 RGB to Cit https://github.com/karl-/pb_ColorUtil \
 XYZ to XY https://github.com/johnciech/PhilipsHueSDK/blob/master/ApplicationDesignNotes/RGB%20to%20xy%20Color%20conversion.md \
-Rotation https://forum.unity.com/threads/simple-rotation-script-free.510303/
+Rotation https://forum.unity.com/threads/simple-rotation-script-free.510303/ \
+Spaceflight Controller https://assetstore.unity.com/packages/tools/input-management/keyboard-spaceflight-controller-129389
