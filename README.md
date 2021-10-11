@@ -1,5 +1,4 @@
-#Mixed Reality Galaxy Color Picker
-
+# Mixed Reality Galaxy Color Picker
 
 ## Pick up color from virtual to affect the physical light
 A Mixed Reality Color Picker
