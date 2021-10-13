@@ -1,10 +1,10 @@
 # Mixed Reality Galaxy Color Picker
 
-## Pick up color from virtual to affect the physical light
-A Mixed Reality Color Picker
+## Pick up virtual Galaxy
 
+This project provides a system to pick up colour from virtual content in Mixed Reality Environment (represented as a Galaxy in the universe) that can change the lighting on the physical space for the smart home system.
 
-
+This project belongs to my thesis project that attempts to connect the Metaverse and physical space. 
 https://user-images.githubusercontent.com/60665347/136718154-5691374e-dc28-4940-82db-a99b80873d6c.mp4
 
 
